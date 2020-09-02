@@ -8,7 +8,11 @@ docker ps -a （実行中、停止中すべてのコンテナを表示）
 
 docker build はDockerfileからイメージを作るコマンド  
 -tオプションでイメージ名を付けられる (docker build -t [image name] [Dockerfile path])  
-docker run はイメージからコンテナを作る
+docker run はイメージからコンテナを作る  
+
+tオプションについて  
+https://keymaso.com/programemory/docker/run-option-d/
+
 
 
 
@@ -27,8 +31,11 @@ https://www.wakuwakubank.com/posts/270-docker-build-image/
 ## tips
 
 参照　https://qiita.com/SUZUKI_Masaya/items/1fd9489e631c78e5b007  
-apt search ???  
-dpkg -l | grep ???  
+apt search [package name]  
+dpkg -l | grep [package name]  
 
 インタプリタではapt, 自動で実行するときなどはapt-getが推奨らしい  
+https://tech-blog.cloud-config.jp/2019-09-09-dockerfile-apt-apt-get-source-tips/  
 
+https://note.com/syamashi/n/nd296e3e46dab  
+yamashiさんのメモ  
