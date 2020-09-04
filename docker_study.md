@@ -44,6 +44,9 @@ https://qiita.com/YumaInaura/items/ce40a792da308a068310
 Dockerfile 書き方  
 https://www.wakuwakubank.com/posts/270-docker-build-image/  
 
+スライド解説  
+https://www.slideshare.net/zembutsu/explaining-best-practices-for-writing-dockerfiles  
+
 ## tips
 
 参照　https://qiita.com/SUZUKI_Masaya/items/1fd9489e631c78e5b007  
@@ -65,4 +68,7 @@ https://qiita.com/RyoMa_0923/items/9b5d2c4a97205692a560
 vmとdockerの違いについて  
 https://www.sbbit.jp/article/cont1/27963  
 https://qiita.com/r-tominaga/items/8ac588d603802572185f  
+
+metapackageとは？　ー＞　パッケージの依存関係のみを記したパッケージ。それ自体に中身はないらしい。  
+https://wiki.ubuntulinux.jp/MetaPackages
 
