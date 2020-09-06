@@ -72,3 +72,7 @@ https://qiita.com/r-tominaga/items/8ac588d603802572185f
 metapackageとは？　ー＞　パッケージの依存関係のみを記したパッケージ。それ自体に中身はないらしい。  
 https://wiki.ubuntulinux.jp/MetaPackages
 
+　
+apt-get install php7.3-fpm  
+wget https://wordpress.org/latest.tar.gz  
+wget https://files.phpmyadmin.net/phpMyAdmin/5.0.2/phpMyAdmin-5.0.2-all-languages.tar.gz  
